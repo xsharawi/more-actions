@@ -44,5 +44,5 @@ jobs:
           ls
       - name: print linux info
         run:
-          cat /etc/lsb_release
+          cat /etc/lsb-release
 
